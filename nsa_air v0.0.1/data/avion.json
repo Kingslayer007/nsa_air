@@ -1,0 +1,22 @@
+{
+"RGT" :{"id":"RGT","matricule":"CN-RGT","type":"Boeing 787-8","nbreSieges":"159","etat":"Actif","LimiteSiege":"A-H-20","idCie":"AT"},
+"RGS" :{"id":"RGS","matricule":"CN-RGS","type":"Air Bus 321-200","nbreSieges":"240","etat":"Actif","LimiteSiege":"A-H-30","idCie":"AT"},
+"RGO" :{"id":"RGO","matricule":"CN-RGO","type":"Embrayer 190-Ar","nbreSieges":"96","etat":"Inactif","LimiteSiege":"A-D-16","idCie":"AT"},
+"AAA" :{"id":"AAA","matricule":"N-AAA","type":"Boeing 787-8 Dreamliner","nbreSieges":"220","etat":"Actif","LimiteSiege":"A-F-40","idCie":"AA"},
+"AAB" :{"id":"AAB","matricule":"N-AAB","type":"Boeing 777-200","nbreSieges":"280","etat":"Actif","LimiteSiege":"A-N-20","idCie":"AA"},
+"AAC" :{"id":"AAC","matricule":"N-AAC","type":"Air Bus 320","nbreSieges":"150","etat":"Actif","LimiteSiege":"A-O-10","idCie":"AA"},
+"AAD" :{"id":"AAD","matricule":"SU-AAD","type":"Boeing 787-8","nbreSieges":"159","etat":"Actif","LimiteSiege":"A-H-20","idCie":"MC"},
+"AAE" :{"id":"AAE","matricule":"SU-AAE","type":"Air Bus 300","nbreSieges":"150","etat":"Inactif","LimiteSiege":"A-O-10","idCie":"MC"},
+"AAF" :{"id":"AAF","matricule":"SU-AAF","type":"Embrayer 190-Ar","nbreSieges":"96","etat":"Actif","LimiteSiege":"A-D-16","idCie":"MC"},
+"AAG" :{"id":"AAG","matricule":"F-AAG","type":"Embrayer 190-Ar","nbreSieges":"96","etat":"Inactif","LimiteSiege":"A-D-16","idCie":"GP"},
+"AAH" :{"id":"AAH","matricule":"F-AAH","type":"Air Bus 320","nbreSieges":"150","etat":"Actif","LimiteSiege":"A-O-10","idCie":"GP"},
+"AAI" :{"id":"AAI","matricule":"F-AAI","type":"Boeing 787-8","nbreSieges":"159","etat":"Actif","LimiteSiege":"A-H-20","idCie":"GP"},
+"AAJ" :{"id":"AAJ","matricule":"F-AAJ","type":"Boeing 787-8 Dreamliner","nbreSieges":"220","etat":"Actif","LimiteSiege":"A-F-40","idCie":"CE"},
+"AAK" :{"id":"AAK","matricule":"F-AAK","type":"Air Bus 320","nbreSieges":"150","etat":"Actif","LimiteSiege":"A-O-10","idCie":"CE"},
+"AAL" :{"id":"AAL","matricule":"TC-AAL","type":"Boeing 777-300","nbreSieges":"300","etat":"Actif","LimiteSiege":"A-O-20","idCie":"FH"},
+"AAM" :{"id":"AAM","matricule":"TC-AAM","type":"Boeing 777-300","nbreSieges":"300","etat":"Actif","LimiteSiege":"A-O-20","idCie":"FH"},
+"AAN" :{"id":"AAN","matricule":"TC-AAN","type":"AirBus 320","nbreSieges":"200","etat":"Actif","LimiteSiege":"A-J-20","idCie":"FH"},
+"AAO" :{"id":"AAO","matricule":"EC-AAO","type":"Air Bus 300","nbreSieges":"150","etat":"Inactif","LimiteSiege":"A-O-10","idCie":"I2"},
+"AAP" :{"id":"AAP","matricule":"EC-AAP","type":"Boeing 757-300","nbreSieges":"250","etat":"Actif","LimiteSiege":"A-F-40","idCie":"I2"},
+"AAQ" :{"id":"AAQ","matricule":"EC-AAQ","type":"Boeing 737-400","nbreSieges":"190","etat":"Actif","LimiteSiege":"A-I-20","idCie":"I2"}
+}

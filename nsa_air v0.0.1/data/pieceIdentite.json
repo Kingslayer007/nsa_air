@@ -1,0 +1,5 @@
+{
+"CIN" :{"id" : "CIN","nom":"carte d'identite nationale"},
+"NPP" :{"id":"NPP","nom":"passeport"},
+"NULL" :{"id": "NULL","nom":"neant"}
+}
