@@ -1,0 +1,14 @@
+{"vol0":{"id":"qwerty",
+    "dateDepart":"11-08-2020",
+    "dateArrivee":"11-08-2020",
+    "heureDepart":"08:00",
+    "heureArrivee":"13:00",
+    "prix":"5000",
+    "nbreSiegesReserves":"78",
+    "duree":"05:00",
+    "idAeroportDepart":"CA",
+    "idAeroportArrivee":"CG",
+    "idAvion":"qwerty",
+    "nbreEscale":"0"
+    }
+}

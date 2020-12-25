@@ -1,0 +1,8 @@
+{
+    "admin":{"id" : "admin" , "nom" : "administrateur"},
+    "emp":{"id":"emp","nom":"employe"},
+    "user":{"id":"user","nom":"utilisateur"},
+    "guest":{"id":"guest","nom":"guest"}
+
+
+}

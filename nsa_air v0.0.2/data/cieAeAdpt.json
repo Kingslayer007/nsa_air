@@ -1,0 +1,9 @@
+{
+"AA" :{"id" : "AA" , "nom": "American Airlines (États-Unis)", "url_logo": "./img/american_airlines_logo.png"},
+"AT" :{"id" : "AT" , "nom": "Royal Air Maroc (Maroc)", "url_logo": "./img/ram_logo.png"},
+"CE" :{"id" : "CE" , "nom": "Chalair Aviation (France)", "url_logo": "./img/chalair_aviation_logo.png"},
+"FH" :{"id" : "FH" , "nom": "Free Bird Airlines (Turquie)", "url_logo": "./img/freebird_logo.png"},
+"GP" :{"id" : "GP" , "nom": "APG Airlines (France)", "url_logo": "./img/apg_airlines_logo.png"},
+"I2" :{"id" : "I2" , "nom": "Iberia Express (Espagne)", "url_logo": "./img/iberia_express_logo.png"},
+"MC" :{"id" : "MC" , "nom": "Air Cairo (Égypte)", "url_logo": "./img/air_cairo_logo.png"}
+}
